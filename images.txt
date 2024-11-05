@@ -1,1 +1,1 @@
-docker.getcollate.io/israelhikingmap/graphhopper:10.0
+hub.docker.com/israelhikingmap/graphhopper:10.0
