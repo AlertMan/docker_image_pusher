@@ -1,1 +1,1 @@
-hub.docker.com/layers/israelhikingmap/graphhopper:10.0
+israelhikingmap/graphhopper:10.0
