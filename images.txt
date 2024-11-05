@@ -1,2 +1,4 @@
-israelhikingmap/graphhopper:10.0
-mediagis/nominatim:4.4-2024-08-29T07-22
+kartoza/geoserver:latest
+#israelhikingmap/graphhopper:10.0
+#mediagis/nominatim:4.4-2024-08-29T07-22
+
