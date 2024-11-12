@@ -1,4 +1,7 @@
-redis:8.0-M02
+thingsboard/tb-postgres
+thingsboard/tb-gateway
+thingsboard/tb-edge
+#redis:8.0-M02
 #postgis/postgis:17-3.5
 #postgres:13.16
 #kartoza/geoserver:latest
