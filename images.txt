@@ -1,4 +1,4 @@
-consul
+hashicorp/consul
 #pentaho/kettle
 #thingsboard/tb-postgres
 #thingsboard/tb-gateway
