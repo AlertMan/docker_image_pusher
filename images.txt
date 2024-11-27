@@ -1,4 +1,5 @@
-pentaho/kettle
+consul
+#pentaho/kettle
 #thingsboard/tb-postgres
 #thingsboard/tb-gateway
 #thingsboard/tb-edge
