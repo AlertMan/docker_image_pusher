@@ -1,4 +1,5 @@
-nodered/node-red
+ubuntu20.04
+#nodered/node-red
 #linshellfeng/datax_web:3.0.1
 #hashicorp/consul
 #pentaho/kettle
