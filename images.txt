@@ -1,5 +1,6 @@
-jboss/drools-workbench-showcase
-jboss/kie-server-showcase
+nacos/nacos-server
+#jboss/drools-workbench-showcase
+#jboss/kie-server-showcase
 #hiromuhota/webspoon
 #zlmediakit/zlmediakit:master
 #homebrew/ubuntu20.04
