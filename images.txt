@@ -1,4 +1,5 @@
-nacos/nacos-server
+perfetto:latest
+#nacos/nacos-server
 #jboss/drools-workbench-showcase
 #jboss/kie-server-showcase
 #hiromuhota/webspoon
