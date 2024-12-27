@@ -1,4 +1,4 @@
-perfetto:latest
+python:3
 #nacos/nacos-server
 #jboss/drools-workbench-showcase
 #jboss/kie-server-showcase
